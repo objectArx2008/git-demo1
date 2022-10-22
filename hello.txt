@@ -28,3 +28,5 @@ hello atguigu!
 932236996@qq.com通过网页端进行了更改，并进行了提交！
 xiaoA通过hdd的电脑添加了本行代码，并进行了提交
 xiaoA通过github账号再改一下，看看能不能提交
+
+xiaoB通过本地仓库提交了新的内容
